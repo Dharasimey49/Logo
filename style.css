@@ -21,25 +21,25 @@ a{
 }
 #section1{
     background-color:#009900;
-    height: 220px;
+    height: 200px;
     color: black;
     padding-left: 20px;
 }
 #section2{
     background-color: #0099FF;
-    height: 220px;
+    height: 200px;
     color: black;
     padding-left: 20px;
 }
 #section3{
     background-color: tomato;
-    height: 220px;
+    height: 200px;
     color: black;
     padding-left: 20px;
 }
 #section4{
     background-color: orange;
-    height: 150px;
+    height: 170px;
     color:black;
     padding-left: 20px;
 }
